@@ -1,0 +1,14 @@
+{
+  "name": "link-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "BagasA11",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
